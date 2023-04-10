@@ -1,7 +1,7 @@
 # **House Classification**
 
-Notebook
-https://colab.research.google.com/drive/19CjAiihEfUWJ8unPHNZ3nrfyZfRV4lr9?usp=sharing
+Notebook Demo
+https://colab.research.google.com/drive/1XrGe3Bt4eHFTehF9obKEqeVK6n0CTTb1?usp=sharing
 
 ## 1 Story House Images
 https://drive.google.com/drive/folders/1UPo64e9hWUOJ2lRA3y01d52y_jMCXJmn?usp=sharing
